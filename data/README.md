@@ -7,5 +7,7 @@ LendingClub accepted loans (2007 to 2018 Q4) is not committed to this repo. It i
 Source: the public LendingClub accepted-loans file, distributed on Kaggle. Download it with the
 Kaggle CLI and place it at that path before running the notebook.
 
+Deviation from the plan: the plan asks for read-in-place only. This copy was downloaded to the workstation with the owner's approval (2026-11-13). It stays outside git.
+
 The PD comes from the CR02 challenger, which is trained on loans issued 2007 to 2014. The profit
 analysis uses loans issued 2015 to 2016, with 2017 and later excluded.
